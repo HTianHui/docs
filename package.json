@@ -1,0 +1,21 @@
+{
+  "name": "vuepress",
+  "version": "1.0.0",
+  "description": "笔记",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": "git+https://github.com/HTianHui/docs.git",
+  "keywords": [],
+  "author": "huangth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HTianHui/docs/issues"
+  },
+  "homepage": "https://github.com/HTianHui/docs#readme",
+  "devDependencies": {
+    "vuepress": "^1.8.2"
+  }
+}
